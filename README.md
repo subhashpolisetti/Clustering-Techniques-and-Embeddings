@@ -95,6 +95,6 @@ colab Link: https://github.com/subhashpolisetti/Clustering-Techniques-and-Embedd
 ---
 
 
-**Playlist**: [YouTube Walkthrough Videos](https://www.youtube.com/playlist?list=PL6O21IOHvBmf4VAAySH9Kmu2DJgm9XOeN)
+**Playlist**: [Walkthrough Videos](https://drive.google.com/drive/folders/1HEKD-kQMDNER44NV44KOJvkdVADAk9hQ?usp=sharing)
 
 
